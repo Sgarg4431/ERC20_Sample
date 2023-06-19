@@ -1,6 +1,6 @@
-# ERC20
+# ERC20 AND VAULT
 
-This is simple erc20 contract which is deployed using avalanche subnet 
+This is simple erc20 and vault contract which is deployed using avalanche subnet 
 
 ## Description
 
